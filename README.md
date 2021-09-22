@@ -14,10 +14,10 @@ Analyzing movies/shows on OTT platforms and a recommendation engine using CountV
 * __Country__: Release in Country
 
 # Tasks
-- Import required libraries
-- Read the dataset and perform necessary changes
-- Generate a ProfileReport using Pandas Profiling
-- Perform exploratory data analysis over the data
-- Process the data for recommendation engine
-- Create a recommendation engine using CountVectorizer
-- Create a WebApp using Streamlit which showcases both the engines and data analysis report
+- Import required libraries.
+- Read the dataset and perform necessary changes.
+- Generate a ProfileReport using Pandas Profiling.
+- Perform exploratory data analysis over the data.
+- Process the data for recommendation engine.
+- Create a recommendation engine using CountVectorizer.
+- Create a WebApp using Streamlit which showcases both the engines and data analysis report.
